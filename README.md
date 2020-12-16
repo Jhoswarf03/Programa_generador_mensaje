@@ -23,7 +23,7 @@ cada vez que un usuario ejecuta un programa, debería obtener una nueva salida a
 * Git - version 5.0
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+No aplica
 
 ## Code Examples
 Show examples of usage:

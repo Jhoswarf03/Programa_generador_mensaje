@@ -13,7 +13,6 @@ const generarmensaje = () =>{
     let arr =[];
     for (prop in collectionmessage) {
     const num = generateRandoNumber(collectionmessage[prop].length);
-    
     arr.push(`Your sign right now is a "${collectionmessage[prop][num]}" `); 
     }
     const mess=  arr.join('\n');
